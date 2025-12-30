@@ -1,1 +1,2 @@
-# this is my LocalRepo project
+# this is my LocalRepo projectcd.
+# this project basically build for practice.
